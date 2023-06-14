@@ -4,4 +4,4 @@
 
 ### День 4
 
-[Здесь вы моежете её посмотреть](https://ivannikashin.github.io/Slider/)
+[Здесь вы моежете её посмотреть](https://ivannikashin.github.io/Board/)
